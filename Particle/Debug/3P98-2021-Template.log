@@ -1,0 +1,32 @@
+﻿  Source.cpp
+C:\Users\Justin_Gamer_Zone_PC\Desktop\3P98A3\Q1\Source.cpp(55,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Justin_Gamer_Zone_PC\Desktop\3P98A3\Q1\Source.cpp(58,62): warning C4305: 'argument': truncation from 'double' to '_Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Justin_Gamer_Zone_PC\Desktop\3P98A3\Q1\Source.cpp(65,46): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Justin_Gamer_Zone_PC\Desktop\3P98A3\Q1\Source.cpp(69,53): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Justin_Gamer_Zone_PC\Desktop\3P98A3\Q1\Source.cpp(98,59): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Justin_Gamer_Zone_PC\Desktop\3P98A3\Q1\Source.cpp(99,56): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Justin_Gamer_Zone_PC\Desktop\3P98A3\Q1\Source.cpp(140,59): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Justin_Gamer_Zone_PC\Desktop\3P98A3\Q1\Source.cpp(141,56): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Justin_Gamer_Zone_PC\Desktop\3P98A3\Q1\Source.cpp(173,59): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Justin_Gamer_Zone_PC\Desktop\3P98A3\Q1\Source.cpp(174,56): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Justin_Gamer_Zone_PC\Desktop\3P98A3\Q1\Source.cpp(227,59): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Justin_Gamer_Zone_PC\Desktop\3P98A3\Q1\Source.cpp(255,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Justin_Gamer_Zone_PC\Desktop\3P98A3\Q1\Source.cpp(256,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Justin_Gamer_Zone_PC\Desktop\3P98A3\Q1\Source.cpp(276,59): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Justin_Gamer_Zone_PC\Desktop\3P98A3\Q1\Source.cpp(342,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Justin_Gamer_Zone_PC\Desktop\3P98A3\Q1\Source.cpp(362,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Justin_Gamer_Zone_PC\Desktop\3P98A3\Q1\Source.cpp(363,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Justin_Gamer_Zone_PC\Desktop\3P98A3\Q1\Source.cpp(373,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Justin_Gamer_Zone_PC\Desktop\3P98A3\Q1\Source.cpp(374,49): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Justin_Gamer_Zone_PC\Desktop\3P98A3\Q1\Source.cpp(399,45): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\Justin_Gamer_Zone_PC\Desktop\3P98A3\Q1\Source.cpp(413,45): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\Justin_Gamer_Zone_PC\Desktop\3P98A3\Q1\Source.cpp(427,45): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\Justin_Gamer_Zone_PC\Desktop\3P98A3\Q1\Source.cpp(441,45): warning C4305: '*=': truncation from 'double' to 'float'
+C:\Users\Justin_Gamer_Zone_PC\Desktop\3P98A3\Q1\Source.cpp(666,45): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Justin_Gamer_Zone_PC\Desktop\3P98A3\Q1\Source.cpp(669,46): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Justin_Gamer_Zone_PC\Desktop\3P98A3\Q1\Source.cpp(704,37): warning C4305: '=': truncation from 'double' to 'float'
+  3P98-2021-Template.vcxproj -> C:\Users\Justin_Gamer_Zone_PC\Desktop\3P98A3\Q1\Debug\3P98-2021-Template.exe
